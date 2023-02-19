@@ -14,4 +14,4 @@ Emmet easydialog = https://github.com/Awsomedude/easyDialog
 LuminouZ github = https://github.com/LuminouZ307
 
 
-if your found bug dm me at discord : Ran#1077
+if yall found bug dm me at discord : Ran#1077
