@@ -1,12 +1,12 @@
 /* 				Register And Login
 
 			   Creadits:
-	           - Kalcor
+	                   - Kalcor
 			   - pBlueG
 			   - Yashas
 			   - SyS
 			   - LuminouZ for inspiration he register login ucp
-			   - Airell change ucp to one account
+			   - Airell change to no ucp system
 
     NOTE: Please don't remove the credits!
     since 19/2/2023
