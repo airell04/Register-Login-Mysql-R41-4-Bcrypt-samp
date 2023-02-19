@@ -24,7 +24,7 @@
 #define MYSQL_HOST "127.0.0.1"
 #define MYSQL_USER "root"
 #define MYSQL_PASS ""
-#define MYSQL_DB "r&l" // r & l means Register and Login
+#define MYSQL_DB "ral" // ral means Register and Login
 
 new MySQL:sqlcon;
 new g_RaceCheck[MAX_PLAYERS char];
