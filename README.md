@@ -15,3 +15,8 @@ LuminouZ github = https://github.com/LuminouZ307
 
 
 if yall found bug dm me at discord : Ran#1077
+
+
+changelogs 20/2/2023
+
+i forgot to change database to Auto Increment sorry guys now this the change database
